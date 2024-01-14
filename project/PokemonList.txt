@@ -1,0 +1,45 @@
+1  Pikachu     mad      45  90  55  36  5  9  6  4  
+2  Charizard   fire     39  65  52  43  4  7  5  4  
+3  Lapras      water    52  30  35  40  5  3  4  4  
+4  Tropius     grass    49  51  34  44  5  5  3  4 
+5  Ninetales   fire     38  65  41  40  4  7  4  4  
+6  Squirtle    water    44  43  48  56  4  4  5  6  
+7  Dragonite   mad      28  80  60  60  3  8  6  6 
+8  Snorlax     normal   60  5   38  60  6  1  4  6 
+9  Chansey     normal   100 50  20  22  10 5  2  2 
+10 Bulbasaur   grass    45  45  49  49  5  5  5  5 
+
+1  Arceus      mad      100 100 100 100 10 10 10 10
+2  Dialga      mad      100 100 100 100 10 10 10 10
+3  Palkia      mad      100 100 100 100 10 10 10 10
+
+hp spd atk def
+10 Pikachu Charizard Laplace Tropius Ninetales Squirtle Dragonite Snorlax Chansey Bulbasaur
+
+to do:
+display pacing
+skill animation
+
+to discuss:
+attribute effect
+    屬性之間的倍率、效果
+skill choosing
+    玩家與敵人如何選擇技能組
+enemy playing logic
+    敵人選擇技能邏輯
+incidents
+    特殊事件
+Pokemon ability
+    寶可夢特性
+skill effect
+    技能特殊效果
+assistant skills
+    輔助型技能
+experience and level
+    升等與難易度
+    
+鬼火 85
+自我再生 100
+冰凍之風 75
+電磁波 85
+蘑菇孢子 70

@@ -1,0 +1,145 @@
+WaterGun water 75 15 100 1 0 1
+Blast a forceful shot of water.
+end
+AquaTail water 90 15 100 0 0 1
+Attack by swinging tail as if it were 
+a vicious wave in a raging storm.
+end
+HydroPump water 110 5 80 0 0 1
+Blast a huge volume of water launched 
+under great pressure.
+end
+HydroCannon water 150 5 90 0 0 1
+Shoot a watery blast.
+The user can't move on the next turn.
+end
+FirePunch fire 75 15 100 1 0 1
+Attack with a fiery punch.
+This may leave the target with a burn.
+end
+Flamethrower fire 90 15 100 0 0 1
+Scorch the target with an intense 
+blast of fire.
+This may leave the target with a burn.
+end
+FireBlast fire 110 5 85 0 0 1
+Attack with an intense blast of 
+all-consuming fire.
+This may leave the target with a burn.
+end
+BlastBurn fire 150 5 90 0 0 1
+The target is razed by a fiery 
+explosion.
+The user can't move on the next turn.
+end
+HornLeech grass 75 15 100 0 0 1
+Drain the target's energy with its 
+horns. The user's HP is restored by up 
+to half the damage taken by the target.
+end
+PetalBlizzard grass 90 15 100 0 0 1
+Stir up a violent petal blizzard and 
+damage everything around it.
+end
+SolarBeam grass 120 5 85 0 0 1
+Gather light then blast a bundled beam.
+end
+FrenzyPlant grass 150 5 90 0 0 1
+Slam the target with the roots of an 
+enormous tree.
+The user can't move on the next turn.
+end
+HeadBut normal 70 15 100 1 0 1
+Stick out its head and attacks by 
+charging straight into the target.
+This may also make the target flinch.
+end
+TakeDown normal 130 15 85 0 0 1
+A reckless full-body charge attack for 
+slamming into the target.
+This also damages the user a little.
+end
+MegaPunch normal 80 20 85 0 0 1
+The target is slugged by a punch thrown 
+with muscle-packed power.
+end
+HyperBeam normal 150 5 90 0 0 1
+The target is attacked with a powerful 
+beam.
+The user can't move on the next turn.
+end
+BrickBreak mad 75 15 100 1 0 1
+Attack with a swift chop.
+end
+AuraSphere mad 90 15 100 0 0 1
+Let loose a pulse of aura power from 
+deep within its body at the target.
+end
+CloseCombat mad 120 5 100 0 0 1
+Fight the target up close, inflicting 
+damage without guarding itself.
+This lowers the user's Defense stats.      
+end
+MeteorAssault mad 150 5 90 0 0 1
+Attack wildly with its thick leek.
+The user can't move on the next turn.
+end
+Onibi none 0 15 85 0 -1 1
+Shoot a sinister flame to inflict a burn.
+As one is burned, its attack would reduce 
+by 20% and it'd lose 1/16 of its max HP.
+end
+Recover none 0 5 100 0 0 0
+Regenerate its cells, restoring its own 
+HP by half of its max HP.
+end
+IcyWind none 0 5 70 0 3 1
+Attack with a gust of chilled air, and 
+leave the target frozen.
+A frozen Pokémon is allowed to use fire 
+or mad skills only, and after using one 
+of them, it'd be unfrozen.
+end
+ThunderWave none 0 15 90 0 -1 1
+Launch a weak jolt of electricity that 
+paralyzes the target.
+A paralyzed Pokémon becomes slower by 50% 
+and furthermore has a 25% chance of not 
+being able to attack.
+end
+Spore none 0 5 70 0 3 1
+Scatter bursts of spores inducing sleep.
+Sleeping Pokémon cannot move.
+Sleep lasts for 1-3 turns.
+end
+
+0        1         2         3         4
+123456789012345678901234567890123456789012
+sthlagirsivbnai;ugbjnkrlbugbjlvsu123456789
+
+火焰拳 - Fire Punch
+噴射火焰 - Flamethrower
+大字爆炎 - Fire Blast
+爆炸烈焰 - Blast Burn
+水槍 - Water Gun
+水柱尾 - Aqua Tail
+水泡 - Hydro Pump
+水電砲 - Hydro Cannon
+木角 - Horn Leech
+落英繽紛 - Petal Blizzard
+日光束 - Solar Beam
+瘋狂植物 - Frenzy Plant
+頭槌 - Headbutt
+猛撞 - Take Down
+百萬頓重鎚 - Mega Punch
+破壞死光 - Hyper Beam
+劈瓦 - Brick Break
+波導彈 - Aura Sphere
+近身戰 - Close Combat
+流星突擊 - Meteor Assault
+
+鬼火 85 傷害80% 損血1/16
+自我再生 100 回半血
+冰凍之風 70 只能使用火、狂 20%解除
+電磁波 85 速度減半 25%無法行動
+蘑菇孢子 70 睡1-3回合

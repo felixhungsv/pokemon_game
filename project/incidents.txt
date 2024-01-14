@@ -1,0 +1,15 @@
+Dies_irae
+mad Pokemons defend 1.2x and attack 1.1x
+Lucky777
+all Pokemons recover 1/7 lost HP
+Storm
+water Pokemons attack 1.1x and fire Pokemons attack 0.8x
+Wildfire
+grass Pokemons defend 0.8x and fire Pokemons speed 1.2x
+Just_a_normal_day
+normal Pokemons all ability 1.1x
+ad_time
+all Pokemons attack 0.8x and defend 0.9x
+
+aakiretto
+here you come
